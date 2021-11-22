@@ -5,7 +5,7 @@ image:
   image: ''
   alt_text: ''
 headline: Chu &amp; Dohn Acoustics
-content: ''
+content: Ears of experience
 cta:
   enabled: false
   url: ''
